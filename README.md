@@ -4,6 +4,22 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;💡+Human+Explorer;🎨+Playful+Creator;☕+Always+Learning+New+Things" />
 </p>
 
+
+## 🌟 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/yatish2026/profile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatish2026&repo=profile&theme=radical" />
+  </a>
+  <a href="https://github.com/yatish2026/spotify-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatish2026&repo=spotify-clone&theme=radical" />
+  </a>
+  <a href="https://github.com/yatish2026/SwaRaksha_AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatish2026&repo=SwaRaksha_AI&theme=radical" />
+  </a>
+</p>
+
+---
 ---
 
 ## 🛠️ Tech Stack  
@@ -29,23 +45,12 @@
 </p>
 
 ---
+## 🎯 Currently Learning & Next Goals  
 
-## 🌟 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/yatish2026/profile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatish2026&repo=profile&theme=radical" />
-  </a>
-  <a href="https://github.com/yatish2026/spotify-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatish2026&repo=spotify-clone&theme=radical" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yatish2026/SwaRaksha_AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatish2026&repo=SwaRaksha_AI&theme=radical" />
-  </a>
-</p>
+- ☁️ Exploring **Cloud (Google Cloud & AWS)**  
+- 🧠 Diving into **AI + Agents**  
+- ⚡ Mastering **System Design & Scalability**  
+- 💼 Preparing for **placements**  
 
 ---
 
@@ -64,10 +69,29 @@
 
 ## 🎲 Outside the Code  
 
-- ♟️ Chess enthusiast — strategy meets patience  
-- ✍️ Poet — code sometimes rhymes 😉  
-- 🧠 Psychology explorer — curious about minds  
-- 😄 Fun-first — because life’s too short for boring code  
+<p align="center">
+  🎯 <b>Always curious, always playful!</b>
+</p>
+
+- ♟️ **Chess Strategist** → Every move is a lesson  
+- ✍️ **Poetic Coder** → Sometimes my comments rhyme 😉  
+- 🎮 **Gamer Mindset** → Fun + Focus = Flow  
+- 🧠 **Psych Explorer** → Obsessed with how humans think  
+- 🌍 **Adventurer** → Code indoors, explore outdoors  
+
+---
+
+## 🎉 Fun Fact  
+
+> ⚡ I once **fixed a bug** by taking a **shower** — turns out hot water compiles better ideas. 🚿💡
+
+---
+
+## 💡 Random Dev Quote (auto-refresh)  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
+</p>
 
 ---
 
@@ -77,14 +101,6 @@
   <a href="https://www.linkedin.com/in/yatish-gottapu/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:yatishgottapu2026@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/yatish2026"><img src="https://skillicons.dev/icons?i=github" /></a>
-</p>
-
----
-
-🐍 Fun fact: Watch my contributions come alive!  
-
-<p align="center">
-  <img src="https://github.com/yatish2026/yatish2026/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
