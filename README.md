@@ -1,42 +1,92 @@
-# 👋 Hi, I'm Yatish!
+# 👋 Hey, I’m Yatish!  
 
-## 🚀 Full Stack Developer | Human Explorer | Playful Creator
-
-### 🛠️ Tech Stack
-
-- **Languages:** Java, Python, JavaScript  
-- **Frontend:** React, Next.js  
-- **Backend:** Node.js, Express.js  
-- **Databases:** MongoDB, SQL  
-- **Other Tools:** GitHub, VSCode
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;💡+Human+Explorer;🎨+Playful+Creator;☕+Always+Learning+New+Things" />
+</p>
 
 ---
 
-### 🌟 Favorite Projects
+## 🛠️ Tech Stack  
 
-Here are some of my favorite creations—check them out!
+### 🎨 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
 
-- 🧑‍💼 **[Profile](https://github.com/yatish2026/profile)**  
-  My digital business card—showcasing who I am, what I do, and a splash of creativity.
+### ⚙️ Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" />
+</p>
 
-- 🎵 **[Spotify Clone](https://github.com/yatish2026/spotify-clone)**  
-  Bringing the groove to the web! A Spotify-inspired music platform built with modern web tech.
+### 🗄️ Databases  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
-- 🛡️ **[SwaRaksha_AI](https://github.com/yatish2026/SwaRaksha_AI)**  
-  AI for safety—empowering users with smart, protective features. Because peace of mind should be for everyone.
+### 🔧 Tools & Technologies  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-### 🎲 Outside the Code
+## 🌟 Featured Projects  
 
-- ♟️ Chess enthusiast—always up for a mind-bending match!  
-- ✍️ Poet at heart—rhymes and verses sneak into my code comments.  
-- 🧠 Curious about human psychology—love exploring what makes us tick.  
-- 😄 Playful by nature—believe work (and life) should be fun!
+<p align="center">
+  <a href="https://github.com/yatish2026/profile">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatish2026&repo=profile&theme=radical" />
+  </a>
+  <a href="https://github.com/yatish2026/spotify-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatish2026&repo=spotify-clone&theme=radical" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/yatish2026/SwaRaksha_AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatish2026&repo=SwaRaksha_AI&theme=radical" />
+  </a>
+</p>
 
 ---
 
-> “Code is poetry, chess is strategy, and life is the ultimate puzzle.”
+## 📊 GitHub Stats  
 
-Let’s connect, collaborate, and create something amazing!  
-[Find me on LinkedIn](https://www.linkedin.com/in/yatish-gottapu/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yatish2026&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yatish2026&theme=radical" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yatish2026&theme=tokyo-night" />
+</p>
+
+---
+
+## 🎲 Outside the Code  
+
+- ♟️ Chess enthusiast — strategy meets patience  
+- ✍️ Poet — code sometimes rhymes 😉  
+- 🧠 Psychology explorer — curious about minds  
+- 😄 Fun-first — because life’s too short for boring code  
+
+---
+
+## 🌐 Connect With Me  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yatish-gottapu/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:yatishgottapu2026@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="https://github.com/yatish2026"><img src="https://skillicons.dev/icons?i=github" /></a>
+</p>
+
+---
+
+🐍 Fun fact: Watch my contributions come alive!  
+
+<p align="center">
+  <img src="https://github.com/yatish2026/yatish2026/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+✨ _“Code is poetry, chess is strategy, and life is the ultimate puzzle.”_  
