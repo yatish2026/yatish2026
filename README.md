@@ -42,29 +42,92 @@ A professional-grade, scalable car rental web application that allows users to b
 
 ---
 
-
-
 ## 🛠️ Tech Stack  
 
-### 🎨 Frontend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
-</p>
-
-### ⚙️ Backend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,python" />
-</p>
-
-### 🗄️ Databases  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🔧 Tools & Technologies  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+<div align="center">
+  <table width="100%">
+    <tr>
+      <th align="center" colspan="2" style="font-size:1.3em;">🎨 Frontend</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=react" height="32"/>
+        <br>React
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=nextjs" height="32"/>
+        <br>Next.js
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=html" height="32"/>
+        <br>HTML5
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=css" height="32"/>
+        <br>CSS3
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=tailwind" height="32"/>
+        <br>Tailwind CSS
+      </td>
+    </tr>
+    <tr>
+      <th align="center" colspan="2" style="font-size:1.3em;">⚙️ Backend</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=nodejs" height="32"/>
+        <br>Node.js
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=express" height="32"/>
+        <br>Express.js
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=java" height="32"/>
+        <br>Java
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=python" height="32"/>
+        <br>Python
+      </td>
+    </tr>
+    <tr>
+      <th align="center" colspan="2" style="font-size:1.3em;">🗄️ Databases</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=mongodb" height="32"/>
+        <br>MongoDB
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=mysql" height="32"/>
+        <br>MySQL
+      </td>
+    </tr>
+    <tr>
+      <th align="center" colspan="2" style="font-size:1.3em;">🔧 Tools & Technologies</th>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://skillicons.dev/icons?i=git" height="32"/>
+        <br>Git
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=github" height="32"/>
+        <br>GitHub
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=vscode" height="32"/>
+        <br>VS Code
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=postman" height="32"/>
+        <br>Postman
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 ## 🎯 Currently Learning & Next Goals  
