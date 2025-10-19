@@ -1,5 +1,7 @@
 # 👋 Hey, I’m Yatish!  
-
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+</div>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Developer;💡+Human+Explorer;🎨+Playful+Creator;☕+Always+Learning+New+Things" />
 </p>
