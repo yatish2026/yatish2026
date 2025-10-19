@@ -7,42 +7,7 @@
 </p>
 
 
-## 🌟 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/yatish2026/profile">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatish2026&repo=profile&theme=radical" />
-  </a>
   
-  <a href="https://github.com/yatish2026/SwaRaksha_AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatish2026&repo=SwaRaksha_AI&theme=radical" />
-  </a>
-  <a href="https://github.com/yatish2026/vote-fuji-flow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatish2026&repo=vote-fuji-flow&theme=radical" />
-  </a>
-  <a href="https://github.com/yatish2026/GearUp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatish2026&repo=GearUp&theme=radical" />
-  </a>
-  <a href="https://github.com/yatish2026/spotify-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yatish2026&repo=spotify-clone&theme=radical" />
-  </a>
-</p>
-
----
-
-### 🗳️ vote-fuji-flow  
-An online voting platform built on Avalanche blockchain, enabling secure and transparent elections.  
-**Live Demo:** [vote-fuji-flow.netlify.app](https://vote-fuji-flow.netlify.app)  
-**Source Code:** [yatish2026/vote-fuji-flow](https://github.com/yatish2026/vote-fuji-flow)
-
----
-
-### 🚗 GearUp  
-A professional-grade, scalable car rental web application that allows users to book vehicles, manage bookings, and for admins to manage inventory and operations. Built with performance, security, and user experience in mind.  
-**Live Demo:** [gear-up-alpha.vercel.app](https://gear-up-alpha.vercel.app)  
-**Source Code:** [yatish2026/GearUp](https://github.com/yatish2026/GearUp)
-
----
 
 ## 🛠️ Tech Stack  
 
